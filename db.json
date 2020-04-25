@@ -1,8 +1,4 @@
 {
-  "bin_centers": [
-    0
-  ],
-  "bin_width": 0,
   "new_users": [
     0
   ],
@@ -17,14 +13,5 @@
   ],
   "total_messages": [
     101
-  ],
-  "sessions_per_user": [
-    2
-  ],
-  "conversation_length": [
-    8
-  ],
-  "conversation_steps": [
-    5
   ]
 }
